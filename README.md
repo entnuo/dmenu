@@ -7,6 +7,7 @@
 - Center
 - Highlight
 - High priority
+- Line below prompt
 - Line height
 - Mouse Support
 
