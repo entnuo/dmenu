@@ -1,10 +1,11 @@
 ### dmenu with patches and dmenu_run_history script
 
-#### Patches applied (7 total):
+#### Patches applied (8 total):
 
 - Border
 - Case insensitive
 - Center
+- Fuzzymatch
 - Highlight
 - High priority
 - Line below prompt
