@@ -2,3 +2,5 @@
 *.rej
 *.orig
 config.h
+dmenu
+stest
